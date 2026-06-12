@@ -1,6 +1,6 @@
 # ATM Interface - Project 3
 
-**Developer:** Dhanshu
+**Developer:** Narendra Singh
 **Organization:** DecodeLabs (Industrial Training Kit - Batch 2026)
 
 ## Overview
